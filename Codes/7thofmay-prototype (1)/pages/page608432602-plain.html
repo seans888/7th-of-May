@@ -1,0 +1,148 @@
+<!DOCTYPE html><html xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/1999/xhtml"><head><title>Update inventory(add) - Pidoco° - Prototype Test</title><style>
+					@font-face {
+						font-family: 'Glyphicons';
+						src: url('../resources/fonts/glyphicons-regular.eot');
+						src: url('../resources/fonts/glyphicons-regular.eot?#iefix') format('eot'), url('../resources/fonts/glyphicons-regular.woff') format('woff'), url('../resources/fonts/glyphicons-regular.ttf') format('truetype');
+						font-weight: normal;
+						font-style: normal;
+					}
+					
+					@font-face {
+						font-family: 'Pidoco Android';
+						src: url('../resources/fonts/androidiconfont.eot');
+						src: url('../resources/fonts/androidiconfont.eot?#iefix') format('eot'), url('../resources/fonts/androidiconfont.woff') format('woff'), url('../resources/fonts/androidiconfont.ttf') format('truetype');
+						font-weight: normal;
+						font-style: normal;
+					}
+
+					/* Critical CSS */
+					.pidoco .p-Preview {
+						display: flex;
+						flex-direction: column;
+						flex-wrap: nowrap;
+						align-items: flex-start;
+						height: 100%;
+					}
+
+					.pidoco .p-Preview-prototype {
+						margin: auto;
+					}
+				</style><link rel="preload" type="text/css" href="../resources/simulation-assets/version-204/result/css/result-min-204.css" as="style" onload="this.onload=null;this.rel='stylesheet'"></link><link rel="preload" type="text/css" href="../resources/yui/container/assets/skins/sam/container.css" as="style" onload="this.onload=null;this.rel='stylesheet'"></link><link rel="preload" type="text/css" href="../resources/yui/calendar/assets/skins/sam/calendar.css" as="style" onload="this.onload=null;this.rel='stylesheet'"></link><link rel="preload" type="text/css" href="../resources/yui/menu/assets/skins/sam/menu.css" as="style" onload="this.onload=null;this.rel='stylesheet'"></link><link rel="preload" type="text/css" href="../resources/yui/autocomplete/assets/skins/sam/autocomplete.css" as="style" onload="this.onload=null;this.rel='stylesheet'"></link><script type="text/javascript">
+						
+							/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+							!function(n){"use strict";n.loadCSS||(n.loadCSS=function(){});var o=loadCSS.relpreload={};if(o.support=function(){var e;try{e=n.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),o.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},o.poly=function(){if(!o.support())for(var t=n.document.getElementsByTagName("link"),e=0;e<t.length;e++){var a=t[e];"preload"!==a.rel||"style"!==a.getAttribute("as")||a.getAttribute("data-loadcss")||(a.setAttribute("data-loadcss",!0),o.bindMediaToggle(a))}},!o.support()){o.poly();var t=n.setInterval(o.poly,500);n.addEventListener?n.addEventListener("load",function(){o.poly(),n.clearInterval(t)}):n.attachEvent&&n.attachEvent("onload",function(){o.poly(),n.clearInterval(t)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:n.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+						
+					</script><script type="text/javascript">
+					var rabbit = {
+						parameters: {
+						}
+					};
+					var pidoco = {};
+					
+					rabbit.parameters.codeVersion = '204';
+					rabbit.parameters.uid = 'anonymous';
+					rabbit.parameters.sentryDsn = '';
+					rabbit.parameters.sentryEnvironmentPrefix = '';
+					rabbit.prototypeType = '';
+				</script><script xmlns="" type="text/javascript">Ext = {util:{}};</script><script xmlns="" type="text/javascript" src="../resources/simulation-assets/version-204/result/scripts/script.js"></script><script xmlns="" type="text/javascript" src="../resources/simulation-assets/version-204/result/scripts/lang/en.js"></script><script type="text/javascript">
+					rabbit.result.manager.currentPageNr = 'page608432602';
+					rabbit.result.manager.currentPrototypeId = '261810';
+					rabbit.result.manager.baseUrl = '../resources/view/261810';
+					rabbit.result.lang = 'en';
+					rabbit.result.manager.urlPattern = 'null-plain.html';
+					rabbit.result.manager.currentRole = '';
+					rabbit.result.manager.isExport = true;
+					rabbit.parameters.isApi = false;
+					rabbit.parameters.isAnonymous = false;
+					rabbit.parameters.showFrame = true;
+					rabbit.parameters.fitScreen = true;
+					rabbit.parameters.isInvitation = false;
+					rabbit.parameters.userPrefs = {};
+					rabbit.parameters.prototypePrefs = {};
+					rabbit.parameters.viewMode = 'view';
+					rabbit.parameters.fontFamily = 'none';
+					rabbit.parameters.exportSuffixFilename = 'plain';
+				</script><style type="text/css">
+					.repository.during-transition {
+						background-image: none !important;
+					}
+					
+	
+		body[data-current-page-id="page608432602"] .border-wrapper,
+		body[data-current-page-id="page608432602"] .simulation-container {
+			width:1366px;
+		}
+		
+		body.has-frame[data-current-page-id="page608432602"] .border-wrapper,
+		body.has-frame[data-current-page-id="page608432602"] .simulation-container {
+			height:660px;
+		}
+		
+		body[data-current-page-id="page608432602"] .svg-border-1366-660 {
+			display: block !important;
+		}
+		
+		body[data-current-page-id="page608432602"] .border-wrapper .border-div {
+			width:1366px;
+			height:660px;
+		}
+	</style><link rel="shortcut icon" type="image/x-icon" href="../resources/images/favicon.ico"></link></head><body class="p-Simulation--web p-Simulation--hasBanner plain-none plain pidoco browser-non-ie  no-api-call " data-current-page-id="page608432602" onload=""><script type="text/javascript">
+					$(document).ready(function(){
+						Raven.context(function () {
+
+							if (!rabbit.data) {
+								rabbit.data = {};
+							}
+							if (!rabbit.data.raw) {
+								rabbit.data.raw = {};
+							}
+							rabbit.data.raw = {
+								
+									folders:{
+										
+									},
+									pages:{
+										"page608432602": 
+										
+		{
+			"id": "page608432602",
+			"name": "Update inventory(add)",
+			"layers": {
+				
+			},
+			"image":"",
+			"width":1366,
+			"height":660,
+			"parentFolder": "",
+			"frame": "browser",
+			"frameOrientation": "landscape"
+		}
+	
+									}
+								
+							}
+					
+							rabbit.result.manager.init('page608432602', '', 'non-ie', false);
+						});
+					});
+				</script><div id="mode" style="display:none">plain</div><div id="mode" style="display:none">plain</div><div id="pageNames" style="display: none">{"page835478005":"page835478005-plain.html","page867492436":"page867492436-plain.html","page906964771":"page906964771-plain.html","page791573617":"page791573617-plain.html","page608432602":"page608432602-plain.html","page721987303":"page721987303-plain.html","page871842889":"page871842889-plain.html","page11821914":"page11821914-plain.html","page381066001":"page381066001-plain.html","page497637931":"page497637931-plain.html","page768807986":"page768807986-plain.html"}</div><svg style="position: absolute; top: 0px; left:0px;width:0px;height:0px;"><defs><marker id="startarrowhead" viewBox="0 0 10 10" refX="1" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="8" orient="auto"><path style="fill:none;stroke:black;" d="M 10 0 L 0 5 L 10 10"></path></marker><marker id="endarrowhead" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="8" orient="auto"><path style="fill:none;stroke:black;" d="M 0 0 L 10 5 L 0 10"></path></marker><pattern id="sketchedHover" x="30" y="20" width="50" height="60" patternUnits="userSpaceOnUse"><image href="../resources/icons/sketchedFilledButton.png" width="175" height="75"></image></pattern></defs></svg><div class="p-PreviewBanner" data-p-component="previewBanner"><svg class="p-PreviewBanner-icon p-Icon p-Icon--xxs"><use href="#icon-pidoco-project"></use></svg><div class="p-PreviewBanner-text"><span xmlns="">This project was created with a free version of Pidoco. <a class="p-PreviewBanner-link" href="../images/pidoco.com-pricing">Upgrade </a> to remove this notice.</span></div></div><div class="p-Preview" data-p-component="preview"><div class="p-Preview-prototype"><div class="simulation-container"><div class="simulation-scaled"><svg class="frame-wrapper" height="100000" width="100000"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="frame" x="0" y="0"><use xlink:href="#"></use></svg></svg><div class="border-wrapper"><div id="borderDiv" class="border-div"><div class="p-OriginElement">origin</div><div xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="" id="repository" style="position:absolute;left:0px;top:0px;width: 100%; height: 100%;" class="repository mobile-interaction-potential-trigger" data-review-reference-id="page608432602" data-page-id="page608432602"><div data-layer-id="page608432602" id="repository-page608432602-wrapper" class=" wrapper wrapper-page608432602"><div id="repositorypage608432602-layer" class="layer" name="repositorypageLayer" data-layer-id="page608432602" data-layer-type="pageLayer" style="position:absolute;left:0px;top:0px;"><div id="repository-page608432602-layer-icon354432494" style="position: absolute; left: 35px; top: 275px; width: 32px; height: 32px" data-stencil-type="fonticon.icon" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="icon354432494" data-review-reference-id="icon354432494"><div class="stencil-wrapper" style="width: 32px; height: 32px"><div xmlns:pidoco="http://www.pidoco.com/util" xmlns="http://www.w3.org/1999/xhtml" style="width:32px;height:32px;" title=""><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="fill-black"><use xlink:href="#icon-android-e028"></use></svg></div></div></div><div id="repository-page608432602-layer-textinput549446873" style="position: absolute; left: 90px; top: 275px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="textinput549446873" data-review-reference-id="textinput549446873"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-textinput549446873input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-textinput537805994" style="position: absolute; left: 305px; top: 275px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="textinput537805994" data-review-reference-id="textinput537805994"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-textinput537805994input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-textinput238384218" style="position: absolute; left: 525px; top: 275px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="textinput238384218" data-review-reference-id="textinput238384218"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-textinput238384218input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-799845888" style="position: absolute; left: 35px; top: 360px; width: 32px; height: 32px" data-stencil-type="fonticon.icon" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="799845888" data-review-reference-id="799845888"><div class="stencil-wrapper" style="width: 32px; height: 32px"><div xmlns:pidoco="http://www.pidoco.com/util" xmlns="http://www.w3.org/1999/xhtml" style="width:32px;height:32px;" title=""><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="fill-black"><use xlink:href="#icon-android-e028"></use></svg></div></div></div><div id="repository-page608432602-layer-1580167289" style="position: absolute; left: 90px; top: 360px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="1580167289" data-review-reference-id="1580167289"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-1580167289input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-1108071759" style="position: absolute; left: 305px; top: 360px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="1108071759" data-review-reference-id="1108071759"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-1108071759input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-748597060" style="position: absolute; left: 525px; top: 360px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="748597060" data-review-reference-id="748597060"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-748597060input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-696074213" style="position: absolute; left: 35px; top: 440px; width: 32px; height: 32px" data-stencil-type="fonticon.icon" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="696074213" data-review-reference-id="696074213"><div class="stencil-wrapper" style="width: 32px; height: 32px"><div xmlns:pidoco="http://www.pidoco.com/util" xmlns="http://www.w3.org/1999/xhtml" style="width:32px;height:32px;" title=""><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="fill-black"><use xlink:href="#icon-android-e028"></use></svg></div></div></div><div id="repository-page608432602-layer-1999698528" style="position: absolute; left: 90px; top: 440px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="1999698528" data-review-reference-id="1999698528"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-1999698528input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-1188639807" style="position: absolute; left: 305px; top: 440px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="1188639807" data-review-reference-id="1188639807"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-1188639807input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-719136025" style="position: absolute; left: 525px; top: 440px; width: 150px; height: 30px" data-stencil-type="default.textinput" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="719136025" data-review-reference-id="719136025"><div class="stencil-wrapper" style="width: 150px; height: 30px"><div xmlns="http://www.w3.org/1999/xhtml" title=""><input type="text" id="repository-page608432602-layer-719136025input" value="" style="width:148px;height:28px;padding: 0px;border-width:1px;" class="" onsubmit="debugger"></input></div></div></div><div id="repository-page608432602-layer-text784766545" style="position: absolute; left: 90px; top: 215px; width: 99px; height: 17px" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text784766545" data-review-reference-id="text784766545"><div class="stencil-wrapper" style="width: 99px; height: 17px"><div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:104px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Product Name:</p></span></span></div></div></div><div id="repository-page608432602-layer-text550207258" style="position: absolute; left: 305px; top: 215px; width: 58px; height: 17px" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text550207258" data-review-reference-id="text550207258"><div class="stencil-wrapper" style="width: 58px; height: 17px"><div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:63px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Quantity</p></span></span></div></div></div><div id="repository-page608432602-layer-text86006009" style="position: absolute; left: 525px; top: 215px; width: 38px; height: 17px" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text86006009" data-review-reference-id="text86006009"><div class="stencil-wrapper" style="width: 38px; height: 17px"><div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:43px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Price</p></span></span></div></div></div><div id="repository-page608432602-layer-button33275904" style="position: absolute; left: 340px; top: 560px; width: 96px; height: 30px" data-stencil-type="default.button" data-interactive-element-type="default.button" class="button pidoco-clickable-element stencil mobile-interaction-potential-trigger " data-stencil-id="button33275904" data-review-reference-id="button33275904"><div class="stencil-wrapper" style="width: 96px; height: 30px"><div xmlns:helper="java:it.rapidrabb.editor.stencils.helpers.StencilHelper" xmlns="http://www.w3.org/1999/xhtml" title=""><button type="button" style="width:96px;height:30px;font-size:1em;background-color:#d9d9d9;padding-left: 0px; padding-right: 0px;" xml:space="preserve" title="">Add Product</button></div></div><div class="interactive-stencil-highlighter" style="width: 96px; height: 30px"></div><div xmlns:json="http://json.org/" xmlns="http://www.w3.org/1999/xhtml"></div></div><div id="repository-page608432602-layer-text98045632" style="position: absolute; left: 595px; top: 90px; width: 182px; height: 37px" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text98045632" data-review-reference-id="text98045632"><div class="stencil-wrapper" style="width: 182px; height: 37px"><div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:187px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.textHeadline12"><p><span style="font-size: 32px;">Add Product</span></p></span></span></div></div></div><div id="repository-page608432602-layer-1275279964" style="position: absolute; left: 0px; top: 65px; width: 1366px; height: 20px" data-stencil-type="default.menu" data-interactive-element-type="default.menu" class="menu stencil mobile-interaction-potential-trigger " data-stencil-id="1275279964" data-review-reference-id="1275279964"><div class="stencil-wrapper" style="width: 1366px; height: 20px"><div xmlns="http://www.w3.org/1999/xhtml" class="yui-skin-sam  menu" style="width:1366px;height:20px;" title=""><div id="repository-page608432602-layer-1275279964-menu-container"></div></div></div></div></div></div></div><div id="dContainer" style="position:absolute;top:0px;width:1366px;height:0px;left:0px;background:transparent;" class="yui-skin-sam"></div></div></div></div></div></div></div><script xmlns:json="http://json.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema" type="text/javascript">
+				$(document).ready(function(){
+					Raven.context(function () {
+						rabbit.interaction.manager.registerInteraction('repository-page608432602-layer-button33275904', 'interaction24557309', {"button":"left","id":"action627393306","numberOfFinger":"1","type":"click"},  
+							[
+								{"delay":"0","id":"reaction72221811","options":"withoutReloadOnly","target":"page906964771","transition":"none","type":"showPage"}
+							]
+						);
+					});
+				});
+			</script><script xmlns:xs="http://www.w3.org/2001/XMLSchema" type="text/javascript">Raven.context(function () {
+			rabbit.stencils.menu.setupMenu("repository-page608432602-layer-1275279964", '[{"text":"Menu","submenu":{"id":"menu552644809-0","itemdata":[{"text":"Product List ","onclick":{"fn":rabbit.result.manager.menuClick,"obj":"page381066001"}},{"text":"Transaction list","onclick":{"fn":rabbit.result.manager.menuClick,"obj":"page497637931"}},{"text":"Process Order","onclick":{"fn":rabbit.result.manager.menuClick,"obj":"page11821914"}}]}},{"text":"Edit ","submenu":{"id":"menu552644809-1","itemdata":[{"text":"add ","onclick":{"fn":rabbit.result.manager.menuClick,"obj":"page608432602"}},{"text":"Update","onclick":{"fn":rabbit.result.manager.menuClick,"obj":"page906964771"}},{"text":"Delete","onclick":{"fn":rabbit.result.manager.menuClick,"obj":"page835478005"}}]}}]', 'horizontal');
+		});</script><script type="text/javascript">
+			$(document).ready(function(){
+				Raven.context(function () {
+					
+						rabbit.result.manager.pageReady('page608432602');
+					
+				});
+			});
+		</script></body></html>

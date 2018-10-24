@@ -1,0 +1,224 @@
+rabbit.data.layerStore.addLayerFromHtml('<div xmlns:sketchedHelper="java:it.rapidrabb.editor.stencils.helpers.SketchedHelper" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fn="http://www.w3.org/2005/xpath-functions">\
+   <div id="result">\
+      <div xmlns:xs="http://www.w3.org/2001/XMLSchema" id="__containerId__page791573617-layer" class="layer" name="__containerId__pageLayer" data-layer-id="page791573617" data-layer-type="pageLayer" style="position:absolute;left:0px;top:0px;">\
+         <div id="__containerId__-page791573617-layer-d1854e3603859237" style="position: absolute; left: 460px; top: 160px; width: 370px; height: 235px" data-stencil-type="static.rect" data-interactive-element-type="static.rect" class="rect stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e3603859237" data-review-reference-id="d1854e3603859237">\
+            <div class="stencil-wrapper" style="width: 370px; height: 235px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="">\
+                  <svg xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden" style="height: 235px;width:370px;" width="370" height="235">\
+                     <g width="370" height="235">\
+                        <path xmlns="" class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.17, 0.85, 22.33, 0.81 Q 32.50, 0.67, 42.67, 0.58 Q 52.83, 0.73, 63.00, 0.92 Q 73.17, 0.75, 83.33, 0.61 Q 93.50, 0.54, 103.67, 1.02 Q 113.83, 1.17, 124.00, 1.28 Q 134.17, 1.10, 144.33, 0.84 Q 154.50, 1.07, 164.67, 1.14 Q 174.83, 1.24, 185.00, 1.10 Q 195.17, 1.63, 205.33, 1.64 Q 215.50, 2.30, 225.67, 1.73 Q 235.83, 2.36, 246.00, 2.00 Q 256.17, 1.61, 266.33, 1.94 Q 276.50, 1.85, 286.67, 1.85 Q 296.83, 1.48, 307.00, 1.82 Q 317.17, 1.56, 327.33, 1.82 Q 337.50, 1.77, 347.67, 2.46 Q 357.83, 2.70, 368.27, 1.73 Q 368.28, 12.41, 368.13, 22.98 Q 368.18, 33.49, 368.13, 44.00 Q 367.35, 54.51, 367.59, 65.00 Q 367.81, 75.50, 368.34, 86.00 Q 368.78, 96.50, 367.90, 107.00 Q 367.38, 117.50, 368.14, 128.00 Q 368.66, 138.50, 368.37, 149.00 Q 367.62, 159.50, 367.86, 170.00 Q 368.03, 180.50, 368.01, 191.00 Q 367.98, 201.50, 367.99, 212.00 Q 368.70, 222.50, 368.53, 233.53 Q 357.90, 233.21, 347.62, 232.70 Q 337.51, 233.17, 327.34, 233.28 Q 317.17, 233.19, 307.00, 233.16 Q 296.83, 232.77, 286.67, 232.79 Q 276.50, 233.91, 266.33, 231.73 Q 256.17, 231.72, 246.00, 231.45 Q 235.83, 232.16, 225.67, 233.60 Q 215.50, 233.37, 205.33, 233.37 Q 195.17, 233.28, 185.00, 233.23 Q 174.83, 232.95, 164.67, 232.96 Q 154.50, 232.87, 144.33, 233.26 Q 134.17, 234.21, 124.00, 233.09 Q 113.83, 232.77, 103.67, 233.88 Q 93.50, 233.76, 83.33, 233.08 Q 73.17, 233.26, 63.00, 233.68 Q 52.83, 234.48, 42.67, 234.39 Q 32.50, 234.27, 22.33, 233.81 Q 12.17, 233.65, 2.00, 233.00 Q 1.66, 222.61, 1.96, 212.01 Q 1.36, 201.54, 1.96, 191.00 Q 2.25, 180.50, 1.95, 170.00 Q 2.42, 159.50, 2.14, 149.00 Q 2.49, 138.50, 2.05, 128.00 Q 2.60, 117.50, 2.13, 107.00 Q 1.88, 96.50, 2.38, 86.00 Q 2.77, 75.50, 2.70, 65.00 Q 2.78, 54.50, 2.72, 44.00 Q 1.49, 33.50, 2.44, 23.00 Q 2.00, 12.50, 2.00, 2.00" style=" fill:white;"></path>\
+                     </g>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e14754438477" style="position: absolute; left: 460px; top: 193px; width: 370px; height: 4px" data-stencil-type="static.line" data-interactive-element-type="static.line" class="line stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e14754438477" data-review-reference-id="d1854e14754438477">\
+            <div class="stencil-wrapper" style="width: 370px; height: 4px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="">\
+                  <svg style="position: absolute; left: 0px; top: 0px; height: 4px;width:370px;" viewBox="0 0 370 4" width="370" height="4">\
+                     <path xmlns="" class=" svg_unselected_element" d="M 0.00, 2.00 Q 10.28, 1.70, 20.56, 1.53 Q 30.83, 1.34, 41.11, 1.23 Q 51.39, 1.22, 61.67, 0.88 Q 71.94, 0.66, 82.22, 0.94 Q 92.50, 1.02, 102.78, 0.98 Q 113.06, 0.72, 123.33, 0.43 Q 133.61, 0.31, 143.89, 0.90 Q 154.17, 0.78, 164.44, 1.18 Q 174.72, 0.88, 185.00, 1.14 Q 195.28, 0.61, 205.56, 0.76 Q 215.83, 0.72, 226.11, 1.04 Q 236.39, 1.05, 246.67, 0.89 Q 256.94, 0.59, 267.22, 0.49 Q 277.50, 1.13, 287.78, 1.25 Q 298.06, 0.89, 308.33, 0.97 Q 318.61, 1.11, 328.89, 2.31 Q 339.17, 1.58, 349.44, 2.06 Q 359.72, 2.00, 370.00, 2.00" style="marker-start:;marker-end:"></path>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e25316819056" style="position: absolute; left: 470px; top: 175px; width: 76px; height: 17px" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e25316819056" data-review-reference-id="d1854e25316819056">\
+            <div class="stencil-wrapper" style="width: 76px; height: 17px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:81px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
+                        <p style="font-size: 14px;">Information</p></span></span></div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e40315121582" style="position: absolute; left: 790px; top: 170px; width: 35px; height: 20px" data-stencil-type="static.rect" data-interactive-element-type="static.rect" class="rect stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e40315121582" data-review-reference-id="d1854e40315121582">\
+            <div class="stencil-wrapper" style="width: 35px; height: 20px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="">\
+                  <svg xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden" style="height: 20px;width:35px;" width="35" height="20">\
+                     <g width="35" height="20">\
+                        <path xmlns="" class=" svg_unselected_element" d="M 2.00, 2.00 Q 17.50, 0.42, 34.03, 0.97 Q 34.66, 9.45, 33.83, 18.83 Q 17.92, 19.55, 1.17, 18.71 Q 2.00, 10.00, 2.00, 2.00" style=" fill:white;"></path>\
+                     </g>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e51825540057" style="position: absolute; left: 799px; top: 173px; width: 16px; height: 16px" data-stencil-type="fonticon.icon" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e51825540057" data-review-reference-id="d1854e51825540057">\
+            <div class="stencil-wrapper" style="width: 16px; height: 16px">\
+               <div xmlns:pidoco="http://www.pidoco.com/util" xmlns="http://www.w3.org/1999/xhtml" style="width:16px;height:16px;" title="">\
+                  <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="16" height="16" class="fill-black">\
+                     <svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e208" preserveAspectRatio="xMidYMid meet">\
+<title>glyph-e208</title>\
+<path d="M214.133 681.384q0-7.625 5.639-13.264l186.984-186.984-186.984-186.984q-5.639-5.639-5.639-13.583t5.639-13.264l78.797-78.717q5.561-5.322 13.186-5.322t13.264 5.322l187.299 186.984 186.984-186.984q5.322-5.322 13.264-5.322t13.264 5.322l78.717 78.717q5.322 5.322 5.322 13.264t-5.322 13.583l-186.665 186.984 186.665 186.665q5.322 5.639 5.322 13.424t-5.322 13.424l-78.717 78.717q-5.322 5.639-13.264 5.639t-13.583-5.639l-186.665-186.665-186.984 186.984q-5.322 5.322-13.264 5.322t-13.583-5.322l-78.717-79.114q-5.639-5.561-5.639-13.185z"/>\
+</symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e319" preserveAspectRatio="xMidYMid meet">\
+<title>glyph-e319</title>\
+<path d="M147.965 861.773v-628.86q0-6.99 4.765-11.756t11.756-4.765h546.094v645.383q0 6.911-4.765 11.756t-11.756 4.765h-529.571q-6.911 0-11.756-4.765t-4.765-11.756zM280.296 183.268v-82.769q0-6.592 5.481-11.597t12.39-4.926h528.221q6.99 0 11.756 4.765t4.846 11.756v628.86q0 6.99-4.846 11.756t-11.756 4.765h-82.689v-562.615h-463.404z"/>\
+</symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-android-e028" preserveAspectRatio="xMidYMid meet">\
+<title>android-e028</title>\
+<path d="M982.616 408.661h-431.276v-431.276h-78.677v431.276h-431.276v78.677h431.276v431.276h78.677v-431.276h431.276v-78.677z"/>\
+</symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e004" preserveAspectRatio="xMidYMid meet">\
+<title>glyph-e004</title>\
+<path d="M131.364 828.65v-77.764q0-26.451 6.832-39.875t26.292-24.307q159.181-92.061 231.704-123.515v-124.388q-33.124-24.544-33.124-74.191v-98.575q0-41.702 16.045-74.824t50.519-53.617 82.371-20.493 82.45 20.493 50.439 53.617 16.045 74.824v98.575q0 49.327-33.124 73.793v124.788q61.559 25.181 231.704 123.515 19.539 10.883 26.292 24.307t6.832 39.875v77.764q0 6.99-4.846 11.756t-11.756 4.765h-728.070q-6.674 0-11.597-4.765t-5.004-11.756z"/>\
+</symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e028" preserveAspectRatio="xMidYMid meet">\
+<title>glyph-e028</title>\
+<path d="M123.103 406.312q0-63.863 25.021-121.928t67.041-100.163 100.242-66.96 122.165-25.021 121.927 25.021 100.083 66.959 67.041 100.163 25.022 121.927q0 92.061-50.36 170.143l194.607 194.607q5.004 4.607 5.004 11.597t-5.004 11.915l-70.455 70.455q-4.607 4.687-11.756 4.687t-11.756-4.687l-194.607-194.607q-77.445 50.36-169.745 50.36-63.942 0-122.165-25.022t-100.242-67.041-67.041-100.242-25.021-122.165zM223.106 406.312q0 43.687 16.999 83.404t45.833 68.39 68.39 45.673 83.244 16.999 83.165-16.999 68.39-45.673 45.833-68.39 17.077-83.404q0-43.29-17.077-83.007t-45.833-68.39-68.39-45.672-83.165-16.999-83.244 16.999-68.39 45.672-45.833 68.39-17.077 83.007z"/>\
+</symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e196" preserveAspectRatio="xMidYMid meet">\
+<title>glyph-e196</title>\
+<path d="M106.58 481.138q0-55.284 14.535-107.709t40.748-96.986 63.545-81.894 81.894-63.545 97.144-40.748 107.552-14.535q82.45 0 157.513 32.091t129.474 86.343 86.343 129.474 32.091 157.513-32.091 157.513-86.343 129.474-129.474 86.343-157.513 32.091q-54.969 0-107.552-14.535t-97.144-40.748-81.894-63.545-63.545-81.894-40.748-96.985-14.535-107.709zM412.711 696.237q0 6.99 4.765 11.756t11.756 4.846h198.579q6.99 0 11.756-4.846t4.846-11.756v-66.167q0-6.592-4.846-11.597t-11.756-4.926h-49.647v-215.182q0-6.911-4.765-11.756t-11.756-4.765h-132.414q-6.911 0-11.756 4.765t-4.765 11.756v66.246q0 6.911 4.765 11.756t11.756 4.765h49.646v132.414h-49.646q-6.911 0-11.756 4.926t-4.765 11.597v66.167zM478.876 332.202q0 6.99 4.846 11.756t11.756 4.765h66.167q6.99 0 11.756-4.765t4.765-11.756v-66.167q0-6.99-4.765-11.756t-11.756-4.846h-66.167q-6.99 0-11.756 4.846t-4.846 11.756v66.167z"/>\
+</symbol></defs></svg>\
+                     <!--load fonticon glyph-e208-->\
+                     <use xlink:href="#icon-glyph-e208"></use>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e62689724135" style="position: absolute; left: 475px; top: 210px; width: 32px; height: 32px" data-stencil-type="fonticon.icon" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e62689724135" data-review-reference-id="d1854e62689724135">\
+            <div class="stencil-wrapper" style="width: 32px; height: 32px">\
+               <div xmlns:pidoco="http://www.pidoco.com/util" xmlns="http://www.w3.org/1999/xhtml" style="width:32px;height:32px;" title="">\
+                  <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="fill-black">\
+                     <!--print symbols here-->\
+                     <!--load fonticon glyph-e196-->\
+                     <use xlink:href="#icon-glyph-e196"></use>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e73668169074" style="position: absolute; left: 535px; top: 220px; width: 204px; height: 17px" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e73668169074" data-review-reference-id="d1854e73668169074">\
+            <div class="stencil-wrapper" style="width: 204px; height: 17px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="" style="width:209px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
+                        <p style="font-size: 14px;">This is an information message.</p></span></span></div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e88930591034" style="position: absolute; left: 725px; top: 360px; width: 90px; height: 30px" data-stencil-type="default.button" data-interactive-element-type="default.button" class="button pidoco-clickable-element stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e88930591034" data-review-reference-id="d1854e88930591034">\
+            <div class="stencil-wrapper" style="width: 90px; height: 30px">\
+               <div xmlns:helper="java:it.rapidrabb.editor.stencils.helpers.StencilHelper" xmlns="http://www.w3.org/1999/xhtml" style="position:absolute; left:0; top:-2px;" title="">\
+                  <svg overflow="hidden" style="position: absolute;top: 2px;height: 30px;width:90px;" width="90" height="30">\
+                     <g width="90" height="30">\
+                        <path xmlns="" class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.38, 0.60, 22.75, 0.65 Q 33.12, 0.55, 43.50, 0.03 Q 53.88, 0.05, 64.25, 0.75 Q 74.62, 0.54, 86.07, 0.93 Q 86.74, 12.92, 85.71, 25.71 Q 74.83, 25.74, 64.34, 25.79 Q 53.91, 25.68, 43.51, 25.58 Q 33.13, 25.63, 22.76, 26.44 Q 12.38, 25.94, 0.91, 26.09 Q 2.00, 13.50, 2.00, 2.00" style=" fill:#d9d9d9;"></path>\
+                        <path xmlns="" class=" svg_unselected_element" d="M 86.00, 4.00 Q 86.00, 16.00, 86.00, 28.00" style=" fill:none;"></path>\
+                        <path xmlns="" class=" svg_unselected_element" d="M 87.00, 5.00 Q 87.00, 17.00, 87.00, 29.00" style=" fill:none;"></path>\
+                        <path xmlns="" class=" svg_unselected_element" d="M 88.00, 6.00 Q 88.00, 18.00, 88.00, 30.00" style=" fill:none;"></path>\
+                        <path xmlns="" class=" svg_unselected_element" d="M 4.00, 26.00 Q 14.50, 26.98, 25.00, 27.25 Q 35.50, 26.84, 46.00, 26.59 Q 56.50, 25.99, 67.00, 26.06 Q 77.50, 26.00, 88.00, 26.00" style=" fill:none;"></path>\
+                        <path xmlns="" class=" svg_unselected_element" d="M 5.00, 27.00 Q 15.50, 26.46, 26.00, 26.44 Q 36.50, 26.31, 47.00, 26.22 Q 57.50, 26.39, 68.00, 26.11 Q 78.50, 27.00, 89.00, 27.00" style=" fill:none;"></path>\
+                        <path xmlns="" class=" svg_unselected_element" d="M 6.00, 28.00 Q 16.50, 27.04, 27.00, 27.31 Q 37.50, 27.96, 48.00, 27.78 Q 58.50, 28.57, 69.00, 28.59 Q 79.50, 28.00, 90.00, 28.00" style=" fill:none;"></path>\
+                     </g>\
+                  </svg><button id="__containerId__-page791573617-layer-d1854e88930591034button" type="button" onmouseover="rabbit.facade.raiseEvent(rabbit.events.buttonMouseOver, \'__containerId__-page791573617-layer-d1854e88930591034button\');" onmouseout="rabbit.facade.raiseEvent(rabbit.events.buttonMouseOut, &#34;__containerId__-page791573617-layer-d1854e88930591034button&#34;);" title="" class="ClickableSketch" style="position: absolute; width:86px;height:26px;font-size:1em;cursor:pointer;color:black" xml:space="preserve">SHOW  \
+                     			</button></div>\
+            </div>\
+            <div class="interactive-stencil-highlighter" style="width: 90px; height: 30px"></div>\
+            <div xmlns:json="http://json.org/" xmlns="http://www.w3.org/1999/xhtml"><script type="text/javascript">\
+				$(document).ready(function(){\
+					Raven.context(function () {\
+						rabbit.interaction.manager.registerInteraction(\'__containerId__-page791573617-layer-d1854e88930591034\', \'interaction684519372\', {"button":"left","id":"action140200034","numberOfFinger":"1","type":"click"},  \
+							[\
+								{"delay":"0","id":"reaction682841921","options":"withoutReloadOnly","target":"page867492436","transition":"none","type":"showPage"}\
+							]\
+						);\
+					});\
+				});\
+			</script></div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e105578499258" style="position: absolute; left: 535px; top: 265px; width: 260px; height: 17px" data-stencil-type="default.text2" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e105578499258" data-review-reference-id="d1854e105578499258">\
+            <div class="stencil-wrapper" style="width: 260px; height: 17px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title=""><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2">\
+                        <p style="font-size: 14px;"><span style="font-size: 11px;">THERE ARE PRODUCTS NEEDED TO REPLENISH<br /></span></p></span></span></div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e120669873117" style="position: absolute; left: 460px; top: 348px; width: 370px; height: 4px" data-stencil-type="static.line" data-interactive-element-type="static.line" class="line stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e120669873117" data-review-reference-id="d1854e120669873117">\
+            <div class="stencil-wrapper" style="width: 370px; height: 4px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="">\
+                  <svg style="position: absolute; left: 0px; top: 0px; height: 4px;width:370px;" viewBox="0 0 370 4" width="370" height="4">\
+                     <path xmlns="" class=" svg_unselected_element" d="M 0.00, 2.00 Q 10.28, 0.98, 20.56, 1.23 Q 30.83, 1.40, 41.11, 1.44 Q 51.39, 1.71, 61.67, 1.47 Q 71.94, 1.63, 82.22, 1.49 Q 92.50, 1.11, 102.78, 1.89 Q 113.06, 2.01, 123.33, 1.94 Q 133.61, 2.26, 143.89, 2.78 Q 154.17, 2.94, 164.44, 2.58 Q 174.72, 2.14, 185.00, 1.62 Q 195.28, 2.73, 205.56, 2.09 Q 215.83, 1.89, 226.11, 2.04 Q 236.39, 1.86, 246.67, 1.54 Q 256.94, 2.79, 267.22, 3.11 Q 277.50, 2.58, 287.78, 3.04 Q 298.06, 2.50, 308.33, 2.51 Q 318.61, 1.77, 328.89, 2.10 Q 339.17, 3.22, 349.44, 3.11 Q 359.72, 2.00, 370.00, 2.00" style="marker-start:;marker-end:"></path>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e131719954451" style="position: absolute; left: 765px; top: 170px; width: 25px; height: 20px" data-stencil-type="static.rect" data-interactive-element-type="static.rect" class="rect stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e131719954451" data-review-reference-id="d1854e131719954451">\
+            <div class="stencil-wrapper" style="width: 25px; height: 20px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="">\
+                  <svg xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden" style="height: 20px;width:25px;" width="25" height="20">\
+                     <g width="25" height="20">\
+                        <path xmlns="" class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.50, 0.48, 23.80, 1.20 Q 24.30, 9.57, 23.54, 18.54 Q 12.76, 18.94, 1.36, 18.54 Q 2.00, 10.00, 2.00, 2.00" style=" fill:white;"></path>\
+                     </g>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e143946020767" style="position: absolute; left: 740px; top: 170px; width: 25px; height: 20px" data-stencil-type="static.rect" data-interactive-element-type="static.rect" class="rect stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e143946020767" data-review-reference-id="d1854e143946020767">\
+            <div class="stencil-wrapper" style="width: 25px; height: 20px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="">\
+                  <svg xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden" style="height: 20px;width:25px;" width="25" height="20">\
+                     <g width="25" height="20">\
+                        <path xmlns="" class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.50, 1.12, 23.35, 1.65 Q 22.96, 10.01, 23.50, 18.50 Q 12.63, 18.48, 1.95, 18.04 Q 2.00, 10.00, 2.00, 2.00" style=" fill:white;"></path>\
+                     </g>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e15474283467" style="position: absolute; left: 770px; top: 173px; width: 16px; height: 16px" data-stencil-type="fonticon.icon" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e15474283467" data-review-reference-id="d1854e15474283467">\
+            <div class="stencil-wrapper" style="width: 16px; height: 16px">\
+               <div xmlns:pidoco="http://www.pidoco.com/util" xmlns="http://www.w3.org/1999/xhtml" style="width:16px;height:16px;" title="">\
+                  <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="16" height="16" class="fill-black">\
+                     <!--print symbols here-->\
+                     <!--load fonticon glyph-e319-->\
+                     <use xlink:href="#icon-glyph-e319"></use>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-page791573617-layer-d1854e165759275697" style="position: absolute; left: 747px; top: 183px; width: 10px; height: 4px" data-stencil-type="static.line" data-interactive-element-type="static.line" class="line stencil mobile-interaction-potential-trigger " data-stencil-id="d1854e165759275697" data-review-reference-id="d1854e165759275697">\
+            <div class="stencil-wrapper" style="width: 10px; height: 4px">\
+               <div xmlns="http://www.w3.org/1999/xhtml" title="">\
+                  <svg style="position: absolute; left: 0px; top: 0px; height: 4px;width:10px;" viewBox="0 0 10 4" width="10" height="4">\
+                     <path xmlns="" class=" svg_unselected_element" d="M 0.00, 2.00 Q 5.00, 2.00, 10.00, 2.00" style="marker-start:;marker-end:"></path>\
+                  </svg>\
+               </div>\
+            </div>\
+         </div>\
+      </div>\
+   </div>\
+   <div id="styles">\
+      <style type="text/css">\
+         	\
+         		body[data-current-page-id="page791573617"] .border-wrapper,\
+         		body[data-current-page-id="page791573617"] .simulation-container {\
+         			width:1366px;\
+         		}\
+         		\
+         		body.has-frame[data-current-page-id="page791573617"] .border-wrapper,\
+         		body.has-frame[data-current-page-id="page791573617"] .simulation-container {\
+         			height:660px;\
+         		}\
+         		\
+         		body[data-current-page-id="page791573617"] .svg-border-1366-660 {\
+         			display: block !important;\
+         		}\
+         		\
+         		body[data-current-page-id="page791573617"] .border-wrapper .border-div {\
+         			width:1366px;\
+         			height:660px;\
+         		}\
+         	\
+      </style>\
+   </div>\
+   <div id="json">\
+      		{\
+      			"id": "page791573617",\
+      			"name": "Notification replenish",\
+      			"layers": {\
+      				\
+      			},\
+      			"image":"",\
+      			"width":1366,\
+      			"height":660,\
+      			"parentFolder": "",\
+      			"frame": "browser",\
+      			"frameOrientation": "landscape"\
+      		}\
+      	\
+   </div>\
+   <div id="border-wrapper">\
+      <div xmlns:json="http://json.org/" class="svg-border svg-border-1366-660" style="display: none;">\
+         <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" overflow="hidden" class="svg_border" style="position:absolute;left:-43px;top:-13px;width:1423px;height:684px;">\
+            <path xmlns="" class=" svg_unselected_element" d="M 32.00, 3.00 Q 42.12, 1.70, 52.24, 2.34 Q 62.35, 3.43, 72.47, 2.91 Q 82.59, 3.44, 92.71, 4.12 Q 102.82, 3.38, 112.94, 2.77 Q 123.06, 2.36, 133.18, 2.23 Q 143.29, 2.86, 153.41, 2.91 Q 163.53, 2.49, 173.65, 2.10 Q 183.76, 2.00, 193.88, 2.07 Q 204.00, 2.20, 214.12, 2.25 Q 224.24, 1.77, 234.35, 2.08 Q 244.47, 1.86, 254.59, 2.91 Q 264.71, 2.85, 274.82, 2.38 Q 284.94, 1.94, 295.06, 2.31 Q 305.18, 2.01, 315.29, 1.95 Q 325.41, 1.87, 335.53, 1.71 Q 345.65, 1.69, 355.76, 2.22 Q 365.88, 2.14, 376.00, 2.25 Q 386.12, 2.04, 396.24, 2.26 Q 406.35, 2.17, 416.47, 1.90 Q 426.59, 2.52, 436.71, 2.23 Q 446.82, 2.27, 456.94, 1.17 Q 467.06, 1.14, 477.18, 2.76 Q 487.29, 3.13, 497.41, 3.50 Q 507.53, 2.80, 517.65, 3.17 Q 527.76, 2.82, 537.88, 2.23 Q 548.00, 3.05, 558.12, 2.61 Q 568.24, 2.66, 578.35, 2.64 Q 588.47, 2.76, 598.59, 2.63 Q 608.71, 2.82, 618.82, 2.05 Q 628.94, 1.92, 639.06, 1.72 Q 649.18, 2.21, 659.29, 1.72 Q 669.41, 2.89, 679.53, 2.71 Q 689.65, 2.07, 699.77, 2.53 Q 709.88, 2.00, 720.00, 2.62 Q 730.12, 3.22, 740.24, 2.46 Q 750.35, 2.67, 760.47, 3.43 Q 770.59, 3.61, 780.71, 2.68 Q 790.82, 2.02, 800.94, 2.29 Q 811.06, 2.75, 821.18, 3.65 Q 831.29, 2.79, 841.41, 3.23 Q 851.53, 3.24, 861.65, 3.17 Q 871.77, 2.80, 881.88, 1.77 Q 892.00, 0.85, 902.12, 1.34 Q 912.24, 2.65, 922.35, 2.96 Q 932.47, 3.11, 942.59, 3.19 Q 952.71, 3.55, 962.82, 3.56 Q 972.94, 3.11, 983.06, 2.70 Q 993.18, 3.08, 1003.30, 3.39 Q 1013.41, 3.52, 1023.53, 2.98 Q 1033.65, 3.57, 1043.77, 2.51 Q 1053.88, 2.79, 1064.00, 3.45 Q 1074.12, 2.53, 1084.24, 2.67 Q 1094.35, 3.02, 1104.47, 2.83 Q 1114.59, 2.63, 1124.71, 3.41 Q 1134.83, 3.72, 1144.94, 3.32 Q 1155.06, 2.35, 1165.18, 2.75 Q 1175.30, 3.66, 1185.41, 3.11 Q 1195.53, 1.98, 1205.65, 2.15 Q 1215.77, 2.26, 1225.88, 2.18 Q 1236.00, 2.13, 1246.12, 2.10 Q 1256.24, 1.47, 1266.35, 2.57 Q 1276.47, 1.60, 1286.59, 1.44 Q 1296.71, 2.23, 1306.83, 3.01 Q 1316.94, 3.24, 1327.06, 3.58 Q 1337.18, 2.50, 1347.30, 2.37 Q 1357.41, 2.69, 1367.53, 2.80 Q 1377.65, 2.17, 1387.77, 1.82 Q 1397.88, 2.02, 1408.11, 2.89 Q 1408.31, 12.97, 1407.93, 23.16 Q 1409.59, 33.12, 1409.31, 43.26 Q 1408.67, 53.37, 1408.80, 63.45 Q 1408.60, 73.53, 1408.03, 83.61 Q 1407.62, 93.68, 1408.13, 103.76 Q 1408.83, 113.83, 1409.46, 123.91 Q 1409.71, 133.98, 1409.17, 144.06 Q 1408.38, 154.14, 1408.04, 164.21 Q 1408.45, 174.29, 1407.85, 184.36 Q 1407.92, 194.44, 1408.15, 204.52 Q 1409.12, 214.59, 1409.15, 224.67 Q 1408.73, 234.74, 1408.37, 244.82 Q 1408.35, 254.89, 1408.03, 264.97 Q 1407.81, 275.05, 1408.20, 285.12 Q 1408.16, 295.20, 1408.41, 305.27 Q 1409.63, 315.35, 1409.51, 325.42 Q 1410.26, 335.50, 1410.22, 345.58 Q 1409.93, 355.65, 1410.04, 365.73 Q 1409.92, 375.80, 1409.53, 385.88 Q 1409.56, 395.95, 1409.58, 406.03 Q 1409.01, 416.11, 1408.90, 426.18 Q 1409.06, 436.26, 1408.88, 446.33 Q 1409.12, 456.41, 1408.65, 466.48 Q 1408.51, 476.56, 1408.41, 486.64 Q 1408.22, 496.71, 1408.74, 506.79 Q 1407.76, 516.86, 1408.24, 526.94 Q 1407.12, 537.01, 1407.55, 547.09 Q 1408.37, 557.17, 1407.97, 567.24 Q 1407.54, 577.32, 1407.68, 587.39 Q 1407.39, 597.47, 1407.29, 607.55 Q 1407.16, 617.62, 1406.88, 627.70 Q 1407.04, 637.77, 1408.38, 647.85 Q 1409.22, 657.92, 1407.97, 667.97 Q 1397.86, 667.93, 1387.69, 667.44 Q 1377.65, 668.05, 1367.57, 669.23 Q 1357.42, 668.53, 1347.30, 668.92 Q 1337.18, 669.08, 1327.06, 668.46 Q 1316.94, 668.02, 1306.83, 668.13 Q 1296.71, 667.19, 1286.59, 667.55 Q 1276.47, 667.27, 1266.35, 667.15 Q 1256.24, 667.55, 1246.12, 667.80 Q 1236.00, 668.41, 1225.88, 668.41 Q 1215.77, 670.17, 1205.65, 669.44 Q 1195.53, 667.93, 1185.41, 668.68 Q 1175.30, 666.88, 1165.18, 667.23 Q 1155.06, 667.66, 1144.94, 668.19 Q 1134.83, 669.05, 1124.71, 669.88 Q 1114.59, 668.74, 1104.47, 668.82 Q 1094.35, 668.39, 1084.24, 669.23 Q 1074.12, 668.29, 1064.00, 668.99 Q 1053.88, 669.43, 1043.77, 669.56 Q 1033.65, 669.62, 1023.53, 669.28 Q 1013.41, 669.60, 1003.30, 670.02 Q 993.18, 669.28, 983.06, 668.52 Q 972.94, 669.45, 962.82, 669.97 Q 952.71, 669.09, 942.59, 669.90 Q 932.47, 669.45, 922.35, 669.37 Q 912.24, 669.43, 902.12, 669.65 Q 892.00, 669.80, 881.88, 669.89 Q 871.77, 668.77, 861.65, 668.81 Q 851.53, 669.25, 841.41, 668.81 Q 831.29, 669.41, 821.18, 669.06 Q 811.06, 669.80, 800.94, 669.51 Q 790.82, 669.14, 780.71, 669.00 Q 770.59, 668.92, 760.47, 669.34 Q 750.35, 668.23, 740.24, 669.78 Q 730.12, 670.23, 720.00, 669.94 Q 709.88, 668.73, 699.77, 668.76 Q 689.65, 669.15, 679.53, 668.60 Q 669.41, 667.81, 659.29, 667.42 Q 649.18, 669.54, 639.06, 670.10 Q 628.94, 670.19, 618.82, 669.82 Q 608.71, 669.01, 598.59, 668.66 Q 588.47, 668.83, 578.35, 668.74 Q 568.24, 668.73, 558.12, 668.96 Q 548.00, 668.88, 537.88, 668.64 Q 527.76, 668.04, 517.65, 668.35 Q 507.53, 668.61, 497.41, 668.72 Q 487.29, 668.98, 477.18, 669.19 Q 467.06, 669.67, 456.94, 669.53 Q 446.82, 669.63, 436.71, 669.16 Q 426.59, 668.42, 416.47, 668.46 Q 406.35, 668.87, 396.24, 668.83 Q 386.12, 669.72, 376.00, 669.42 Q 365.88, 670.35, 355.76, 670.13 Q 345.65, 669.70, 335.53, 669.46 Q 325.41, 669.79, 315.29, 669.67 Q 305.18, 669.44, 295.06, 669.28 Q 284.94, 668.84, 274.82, 668.47 Q 264.71, 667.60, 254.59, 667.77 Q 244.47, 668.16, 234.35, 668.62 Q 224.24, 669.10, 214.12, 669.08 Q 204.00, 669.27, 193.88, 669.10 Q 183.76, 669.00, 173.65, 669.66 Q 163.53, 669.80, 153.41, 669.30 Q 143.29, 669.95, 133.18, 669.44 Q 123.06, 669.49, 112.94, 668.91 Q 102.82, 668.47, 92.71, 668.59 Q 82.59, 669.16, 72.47, 668.92 Q 62.35, 668.97, 52.24, 668.81 Q 42.12, 669.30, 31.16, 668.84 Q 30.47, 658.43, 30.25, 648.10 Q 30.49, 637.87, 30.42, 627.75 Q 30.25, 617.65, 30.69, 607.56 Q 30.84, 597.47, 30.88, 587.40 Q 31.10, 577.32, 31.29, 567.24 Q 31.59, 557.17, 32.02, 547.09 Q 31.21, 537.01, 31.01, 526.94 Q 30.88, 516.86, 30.81, 506.79 Q 30.70, 496.71, 30.59, 486.64 Q 30.39, 476.56, 30.24, 466.48 Q 30.40, 456.41, 31.17, 446.33 Q 31.20, 436.26, 30.85, 426.18 Q 30.88, 416.11, 30.97, 406.03 Q 30.81, 395.95, 31.11, 385.88 Q 31.09, 375.80, 30.94, 365.73 Q 30.87, 355.65, 30.72, 345.58 Q 32.25, 335.50, 30.73, 325.42 Q 32.16, 315.35, 32.36, 305.27 Q 31.68, 295.20, 31.15, 285.12 Q 31.35, 275.05, 32.08, 264.97 Q 31.75, 254.89, 32.23, 244.82 Q 31.83, 234.74, 31.49, 224.67 Q 31.45, 214.59, 31.53, 204.52 Q 31.20, 194.44, 31.37, 184.36 Q 31.59, 174.29, 30.69, 164.21 Q 31.58, 154.14, 31.11, 144.06 Q 31.79, 133.98, 31.57, 123.91 Q 31.67, 113.83, 32.95, 103.76 Q 31.87, 93.68, 32.34, 83.61 Q 32.94, 73.53, 32.94, 63.45 Q 32.61, 53.38, 32.10, 43.30 Q 31.01, 33.23, 31.48, 23.15 Q 32.00, 13.08, 32.00, 3.00" style=" fill:white;"></path>\
+            <path xmlns="" class=" svg_unselected_element" d="M 23.00, 7.00 Q 33.12, 4.61, 43.24, 4.79 Q 53.35, 4.42, 63.47, 5.11 Q 73.59, 5.76, 83.71, 4.54 Q 93.82, 4.97, 103.94, 5.61 Q 114.06, 6.94, 124.18, 6.91 Q 134.29, 5.80, 144.41, 5.09 Q 154.53, 5.21, 164.65, 5.40 Q 174.76, 5.48, 184.88, 5.51 Q 195.00, 5.91, 205.12, 5.75 Q 215.24, 5.70, 225.35, 6.10 Q 235.47, 6.16, 245.59, 6.09 Q 255.71, 5.89, 265.82, 5.81 Q 275.94, 6.01, 286.06, 6.29 Q 296.18, 5.97, 306.29, 5.65 Q 316.41, 5.62, 326.53, 5.09 Q 336.65, 5.17, 346.76, 5.22 Q 356.88, 5.44, 367.00, 6.25 Q 377.12, 6.19, 387.24, 5.85 Q 397.35, 5.45, 407.47, 5.79 Q 417.59, 6.20, 427.71, 6.19 Q 437.82, 7.09, 447.94, 6.25 Q 458.06, 6.57, 468.18, 6.86 Q 478.29, 6.41, 488.41, 6.35 Q 498.53, 6.18, 508.65, 5.85 Q 518.76, 6.37, 528.88, 6.03 Q 539.00, 6.55, 549.12, 6.76 Q 559.24, 7.15, 569.35, 6.70 Q 579.47, 5.82, 589.59, 5.91 Q 599.71, 6.53, 609.82, 5.84 Q 619.94, 5.79, 630.06, 5.24 Q 640.18, 5.10, 650.29, 5.85 Q 660.41, 5.79, 670.53, 5.69 Q 680.65, 5.64, 690.77, 5.14 Q 700.88, 5.83, 711.00, 5.63 Q 721.12, 5.74, 731.24, 5.77 Q 741.35, 5.49, 751.47, 5.45 Q 761.59, 5.39, 771.71, 5.46 Q 781.82, 5.90, 791.94, 5.82 Q 802.06, 6.13, 812.18, 6.15 Q 822.29, 5.88, 832.41, 6.15 Q 842.53, 5.98, 852.65, 6.85 Q 862.77, 6.14, 872.88, 5.49 Q 883.00, 6.10, 893.12, 6.34 Q 903.24, 6.48, 913.35, 6.71 Q 923.47, 6.55, 933.59, 6.17 Q 943.71, 6.19, 953.82, 6.76 Q 963.94, 5.45, 974.06, 6.10 Q 984.18, 5.66, 994.30, 5.34 Q 1004.41, 5.64, 1014.53, 6.11 Q 1024.65, 5.95, 1034.77, 5.65 Q 1044.88, 6.37, 1055.00, 6.78 Q 1065.12, 7.32, 1075.24, 6.97 Q 1085.35, 7.65, 1095.47, 7.62 Q 1105.59, 7.78, 1115.71, 7.53 Q 1125.83, 6.49, 1135.94, 6.49 Q 1146.06, 6.10, 1156.18, 6.42 Q 1166.30, 6.40, 1176.41, 7.44 Q 1186.53, 6.30, 1196.65, 6.32 Q 1206.77, 5.52, 1216.88, 6.04 Q 1227.00, 5.72, 1237.12, 5.26 Q 1247.24, 5.68, 1257.35, 5.52 Q 1267.47, 5.99, 1277.59, 6.42 Q 1287.71, 6.70, 1297.83, 6.29 Q 1307.94, 6.15, 1318.06, 6.35 Q 1328.18, 6.23, 1338.30, 6.89 Q 1348.41, 6.28, 1358.53, 6.17 Q 1368.65, 6.59, 1378.77, 6.99 Q 1388.88, 6.49, 1399.26, 6.74 Q 1399.75, 16.83, 1399.27, 27.11 Q 1398.42, 37.27, 1399.21, 47.30 Q 1399.52, 57.37, 1399.21, 67.45 Q 1399.58, 77.53, 1399.80, 87.60 Q 1399.80, 97.68, 1399.76, 107.76 Q 1399.88, 117.83, 1399.71, 127.91 Q 1399.69, 137.98, 1399.46, 148.06 Q 1399.82, 158.14, 1400.68, 168.21 Q 1400.76, 178.29, 1400.40, 188.36 Q 1399.90, 198.44, 1399.70, 208.52 Q 1399.50, 218.59, 1399.71, 228.67 Q 1399.38, 238.74, 1399.39, 248.82 Q 1400.06, 258.89, 1400.01, 268.97 Q 1399.66, 279.05, 1398.55, 289.12 Q 1399.36, 299.20, 1399.44, 309.27 Q 1400.12, 319.35, 1401.01, 329.42 Q 1400.58, 339.50, 1400.13, 349.58 Q 1399.72, 359.65, 1399.73, 369.73 Q 1399.21, 379.80, 1399.23, 389.88 Q 1399.15, 399.95, 1399.02, 410.03 Q 1398.94, 420.11, 1399.53, 430.18 Q 1399.92, 440.26, 1399.98, 450.33 Q 1399.70, 460.41, 1399.16, 470.48 Q 1399.19, 480.56, 1398.78, 490.64 Q 1400.53, 500.71, 1400.75, 510.79 Q 1400.41, 520.86, 1399.52, 530.94 Q 1399.78, 541.01, 1400.02, 551.09 Q 1400.38, 561.17, 1400.61, 571.24 Q 1400.57, 581.32, 1401.10, 591.39 Q 1400.45, 601.47, 1400.59, 611.55 Q 1400.15, 621.62, 1400.49, 631.70 Q 1401.11, 641.77, 1401.15, 651.85 Q 1401.04, 661.92, 1399.79, 672.79 Q 1389.26, 673.12, 1378.91, 673.03 Q 1368.67, 672.25, 1358.54, 672.10 Q 1348.43, 672.99, 1338.30, 672.84 Q 1328.18, 672.36, 1318.06, 672.04 Q 1307.94, 671.96, 1297.83, 671.65 Q 1287.71, 671.27, 1277.59, 671.05 Q 1267.47, 670.95, 1257.35, 671.28 Q 1247.24, 672.08, 1237.12, 672.24 Q 1227.00, 672.60, 1216.88, 671.62 Q 1206.77, 673.33, 1196.65, 673.10 Q 1186.53, 672.69, 1176.41, 672.93 Q 1166.30, 673.37, 1156.18, 672.47 Q 1146.06, 671.22, 1135.94, 671.14 Q 1125.83, 671.89, 1115.71, 673.08 Q 1105.59, 672.51, 1095.47, 673.07 Q 1085.35, 673.29, 1075.24, 673.75 Q 1065.12, 673.53, 1055.00, 672.53 Q 1044.88, 672.48, 1034.77, 673.13 Q 1024.65, 673.22, 1014.53, 673.65 Q 1004.41, 673.14, 994.30, 672.64 Q 984.18, 672.56, 974.06, 672.70 Q 963.94, 672.51, 953.82, 672.27 Q 943.71, 671.61, 933.59, 671.80 Q 923.47, 672.35, 913.35, 672.44 Q 903.24, 672.55, 893.12, 672.78 Q 883.00, 673.12, 872.88, 672.29 Q 862.77, 671.54, 852.65, 672.15 Q 842.53, 672.32, 832.41, 673.24 Q 822.29, 672.62, 812.18, 672.91 Q 802.06, 673.02, 791.94, 673.28 Q 781.82, 673.02, 771.71, 673.10 Q 761.59, 673.48, 751.47, 672.95 Q 741.35, 673.53, 731.24, 673.10 Q 721.12, 673.90, 711.00, 673.52 Q 700.88, 673.29, 690.77, 673.23 Q 680.65, 673.56, 670.53, 673.63 Q 660.41, 672.25, 650.29, 672.13 Q 640.18, 671.35, 630.06, 670.99 Q 619.94, 671.74, 609.82, 672.46 Q 599.71, 673.09, 589.59, 673.11 Q 579.47, 672.96, 569.35, 672.67 Q 559.24, 673.35, 549.12, 672.74 Q 539.00, 673.04, 528.88, 673.21 Q 518.76, 673.39, 508.65, 673.14 Q 498.53, 672.75, 488.41, 672.72 Q 478.29, 672.46, 468.18, 672.96 Q 458.06, 672.19, 447.94, 672.77 Q 437.82, 672.59, 427.71, 672.76 Q 417.59, 672.26, 407.47, 672.06 Q 397.35, 673.13, 387.24, 672.85 Q 377.12, 673.45, 367.00, 674.03 Q 356.88, 674.17, 346.76, 674.16 Q 336.65, 674.25, 326.53, 673.44 Q 316.41, 672.52, 306.29, 672.58 Q 296.18, 673.03, 286.06, 672.25 Q 275.94, 671.65, 265.82, 671.72 Q 255.71, 671.67, 245.59, 672.14 Q 235.47, 671.46, 225.35, 670.56 Q 215.24, 670.71, 205.12, 671.14 Q 195.00, 672.97, 184.88, 673.13 Q 174.76, 673.25, 164.65, 673.19 Q 154.53, 673.81, 144.41, 673.77 Q 134.29, 672.93, 124.18, 672.61 Q 114.06, 672.43, 103.94, 673.14 Q 93.82, 673.09, 83.71, 673.21 Q 73.59, 673.02, 63.47, 672.97 Q 53.35, 673.83, 43.24, 673.45 Q 33.12, 674.14, 21.89, 673.11 Q 21.32, 662.48, 21.11, 652.12 Q 21.45, 641.88, 21.40, 631.75 Q 21.66, 621.64, 21.95, 611.55 Q 22.62, 601.47, 22.68, 591.39 Q 21.91, 581.32, 21.74, 571.24 Q 21.76, 561.17, 21.67, 551.09 Q 21.57, 541.01, 21.85, 530.94 Q 21.70, 520.86, 21.73, 510.79 Q 21.47, 500.71, 21.30, 490.64 Q 21.99, 480.56, 21.42, 470.48 Q 21.36, 460.41, 21.54, 450.33 Q 22.10, 440.26, 22.41, 430.18 Q 23.35, 420.11, 23.20, 410.03 Q 22.82, 399.95, 22.07, 389.88 Q 23.16, 379.80, 23.07, 369.73 Q 22.13, 359.65, 21.63, 349.58 Q 21.65, 339.50, 22.30, 329.42 Q 22.53, 319.35, 22.08, 309.27 Q 22.83, 299.20, 22.80, 289.12 Q 22.70, 279.05, 22.83, 268.97 Q 22.41, 258.89, 22.91, 248.82 Q 22.50, 238.74, 21.99, 228.67 Q 22.38, 218.59, 22.02, 208.52 Q 22.06, 198.44, 22.14, 188.36 Q 21.67, 178.29, 21.76, 168.21 Q 21.24, 158.14, 22.65, 148.06 Q 22.18, 137.98, 21.69, 127.91 Q 22.66, 117.83, 21.44, 107.76 Q 22.46, 97.68, 22.32, 87.61 Q 21.78, 77.53, 21.23, 67.45 Q 21.07, 57.38, 21.12, 47.30 Q 21.33, 37.23, 21.49, 27.15 Q 23.00, 17.08, 23.00, 7.00" style=" fill:white;"></path>\
+            <path xmlns="" class=" svg_unselected_element" d="M 40.00, 11.00 Q 50.12, 9.56, 60.24, 9.53 Q 70.35, 10.15, 80.47, 9.79 Q 90.59, 9.93, 100.71, 10.63 Q 110.82, 10.51, 120.94, 9.87 Q 131.06, 9.95, 141.18, 10.15 Q 151.29, 10.89, 161.41, 11.11 Q 171.53, 11.49, 181.65, 11.29 Q 191.76, 10.79, 201.88, 10.26 Q 212.00, 10.23, 222.12, 10.18 Q 232.24, 10.25, 242.35, 10.47 Q 252.47, 10.41, 262.59, 10.18 Q 272.71, 10.46, 282.82, 9.99 Q 292.94, 10.11, 303.06, 10.54 Q 313.18, 10.57, 323.29, 10.61 Q 333.41, 10.27, 343.53, 10.14 Q 353.65, 9.73, 363.76, 9.60 Q 373.88, 9.71, 384.00, 9.94 Q 394.12, 9.85, 404.24, 9.84 Q 414.35, 10.08, 424.47, 10.29 Q 434.59, 10.38, 444.71, 11.31 Q 454.82, 10.43, 464.94, 10.44 Q 475.06, 10.01, 485.18, 9.80 Q 495.29, 9.55, 505.41, 10.37 Q 515.53, 10.67, 525.65, 10.17 Q 535.76, 10.20, 545.88, 9.92 Q 556.00, 9.90, 566.12, 10.69 Q 576.24, 10.88, 586.35, 10.50 Q 596.47, 10.17, 606.59, 11.03 Q 616.71, 10.48, 626.82, 10.66 Q 636.94, 10.33, 647.06, 10.21 Q 657.18, 9.81, 667.29, 9.83 Q 677.41, 9.66, 687.53, 9.68 Q 697.65, 9.45, 707.77, 9.52 Q 717.88, 10.00, 728.00, 10.92 Q 738.12, 10.17, 748.24, 10.07 Q 758.35, 9.98, 768.47, 10.17 Q 778.59, 10.34, 788.71, 11.05 Q 798.82, 10.76, 808.94, 11.56 Q 819.06, 10.82, 829.18, 11.55 Q 839.29, 11.70, 849.41, 12.20 Q 859.53, 11.44, 869.65, 10.94 Q 879.77, 11.09, 889.88, 10.95 Q 900.00, 11.81, 910.12, 10.66 Q 920.24, 10.87, 930.35, 10.27 Q 940.47, 10.24, 950.59, 9.70 Q 960.71, 10.18, 970.82, 11.05 Q 980.94, 11.04, 991.06, 12.52 Q 1001.18, 10.79, 1011.30, 10.96 Q 1021.41, 10.75, 1031.53, 10.90 Q 1041.65, 10.43, 1051.77, 10.53 Q 1061.88, 10.72, 1072.00, 9.91 Q 1082.12, 10.53, 1092.24, 10.62 Q 1102.35, 11.23, 1112.47, 10.97 Q 1122.59, 11.03, 1132.71, 10.55 Q 1142.83, 10.36, 1152.94, 9.79 Q 1163.06, 10.04, 1173.18, 11.22 Q 1183.30, 10.26, 1193.41, 10.39 Q 1203.53, 10.62, 1213.65, 10.92 Q 1223.77, 10.68, 1233.88, 10.36 Q 1244.00, 10.47, 1254.12, 10.17 Q 1264.24, 11.27, 1274.35, 9.13 Q 1284.47, 10.59, 1294.59, 9.81 Q 1304.71, 9.70, 1314.83, 9.87 Q 1324.94, 9.90, 1335.06, 9.70 Q 1345.18, 9.17, 1355.30, 8.82 Q 1365.41, 9.71, 1375.53, 9.80 Q 1385.65, 10.13, 1395.77, 10.35 Q 1405.88, 10.46, 1415.62, 11.38 Q 1415.62, 21.20, 1416.76, 31.04 Q 1415.59, 41.26, 1417.13, 51.27 Q 1415.92, 61.38, 1417.31, 71.44 Q 1416.90, 81.53, 1416.54, 91.61 Q 1416.56, 101.68, 1417.12, 111.76 Q 1417.08, 121.83, 1416.49, 131.91 Q 1417.43, 141.98, 1417.66, 152.06 Q 1416.39, 162.14, 1415.83, 172.21 Q 1415.91, 182.29, 1415.91, 192.36 Q 1415.53, 202.44, 1415.72, 212.52 Q 1415.91, 222.59, 1416.71, 232.67 Q 1416.31, 242.74, 1416.12, 252.82 Q 1415.91, 262.89, 1416.74, 272.97 Q 1417.29, 283.05, 1417.12, 293.12 Q 1416.78, 303.20, 1417.18, 313.27 Q 1417.38, 323.35, 1417.29, 333.42 Q 1416.17, 343.50, 1416.12, 353.58 Q 1417.07, 363.65, 1417.77, 373.73 Q 1417.38, 383.80, 1416.97, 393.88 Q 1417.14, 403.95, 1417.56, 414.03 Q 1417.26, 424.11, 1417.27, 434.18 Q 1417.51, 444.26, 1417.96, 454.33 Q 1417.99, 464.41, 1416.85, 474.48 Q 1416.80, 484.56, 1416.82, 494.64 Q 1417.04, 504.71, 1417.35, 514.79 Q 1416.29, 524.86, 1414.45, 534.94 Q 1415.22, 545.01, 1416.09, 555.09 Q 1415.68, 565.17, 1415.96, 575.24 Q 1416.03, 585.32, 1416.33, 595.39 Q 1416.85, 605.47, 1416.98, 615.55 Q 1416.93, 625.62, 1416.97, 635.70 Q 1417.19, 645.77, 1416.52, 655.85 Q 1415.98, 665.92, 1416.13, 676.13 Q 1406.07, 676.57, 1395.90, 676.93 Q 1385.69, 676.67, 1375.55, 676.45 Q 1365.42, 676.45, 1355.30, 676.64 Q 1345.18, 676.82, 1335.06, 675.77 Q 1324.94, 675.62, 1314.83, 676.01 Q 1304.71, 676.96, 1294.59, 676.62 Q 1284.47, 676.23, 1274.35, 676.75 Q 1264.24, 676.87, 1254.12, 676.78 Q 1244.00, 676.75, 1233.88, 676.84 Q 1223.77, 677.12, 1213.65, 676.86 Q 1203.53, 675.79, 1193.41, 675.63 Q 1183.30, 676.81, 1173.18, 677.10 Q 1163.06, 676.73, 1152.94, 676.25 Q 1142.83, 676.18, 1132.71, 675.25 Q 1122.59, 674.52, 1112.47, 674.82 Q 1102.35, 675.17, 1092.24, 675.80 Q 1082.12, 676.80, 1072.00, 676.29 Q 1061.88, 676.00, 1051.77, 675.84 Q 1041.65, 676.04, 1031.53, 675.78 Q 1021.41, 674.99, 1011.30, 674.43 Q 1001.18, 676.43, 991.06, 678.24 Q 980.94, 677.75, 970.82, 675.59 Q 960.71, 675.54, 950.59, 676.22 Q 940.47, 677.42, 930.35, 677.10 Q 920.24, 676.60, 910.12, 676.94 Q 900.00, 677.19, 889.88, 676.59 Q 879.77, 676.62, 869.65, 676.60 Q 859.53, 676.56, 849.41, 676.83 Q 839.29, 677.74, 829.18, 678.33 Q 819.06, 677.67, 808.94, 677.11 Q 798.82, 677.48, 788.71, 676.96 Q 778.59, 677.72, 768.47, 677.11 Q 758.35, 676.16, 748.24, 677.18 Q 738.12, 677.07, 728.00, 676.68 Q 717.88, 675.61, 707.77, 674.94 Q 697.65, 674.90, 687.53, 675.48 Q 677.41, 676.82, 667.29, 677.39 Q 657.18, 676.06, 647.06, 675.59 Q 636.94, 676.49, 626.82, 677.49 Q 616.71, 677.28, 606.59, 675.89 Q 596.47, 677.22, 586.35, 677.82 Q 576.24, 677.01, 566.12, 677.12 Q 556.00, 675.91, 545.88, 676.31 Q 535.76, 676.57, 525.65, 676.22 Q 515.53, 676.45, 505.41, 677.08 Q 495.29, 677.35, 485.18, 677.66 Q 475.06, 676.18, 464.94, 676.32 Q 454.82, 677.23, 444.71, 677.57 Q 434.59, 677.40, 424.47, 677.70 Q 414.35, 678.11, 404.24, 676.04 Q 394.12, 674.27, 384.00, 675.76 Q 373.88, 675.49, 363.76, 675.57 Q 353.65, 675.25, 343.53, 675.22 Q 333.41, 675.15, 323.29, 676.13 Q 313.18, 676.03, 303.06, 676.58 Q 292.94, 676.50, 282.82, 676.76 Q 272.71, 676.72, 262.59, 677.66 Q 252.47, 677.76, 242.35, 677.18 Q 232.24, 676.17, 222.12, 677.23 Q 212.00, 677.47, 201.88, 677.43 Q 191.76, 677.12, 181.65, 677.92 Q 171.53, 677.60, 161.41, 677.95 Q 151.29, 678.05, 141.18, 678.33 Q 131.06, 677.76, 120.94, 678.19 Q 110.82, 678.01, 100.71, 678.08 Q 90.59, 677.83, 80.47, 677.72 Q 70.35, 677.71, 60.24, 677.99 Q 50.12, 677.13, 39.58, 676.42 Q 39.88, 665.96, 39.01, 655.99 Q 38.98, 645.84, 38.88, 635.73 Q 38.52, 625.64, 38.38, 615.56 Q 38.34, 605.48, 38.65, 595.40 Q 38.63, 585.32, 38.42, 575.24 Q 38.30, 565.17, 38.30, 555.09 Q 38.61, 545.01, 38.46, 534.94 Q 38.76, 524.86, 39.04, 514.79 Q 38.91, 504.71, 38.31, 494.64 Q 38.67, 484.56, 38.38, 474.48 Q 38.51, 464.41, 38.60, 454.33 Q 38.25, 444.26, 38.01, 434.18 Q 38.21, 424.11, 38.82, 414.03 Q 38.37, 403.95, 38.36, 393.88 Q 38.66, 383.80, 38.78, 373.73 Q 38.98, 363.65, 38.96, 353.58 Q 38.62, 343.50, 38.16, 333.42 Q 38.21, 323.35, 39.08, 313.27 Q 40.41, 303.20, 41.25, 293.12 Q 40.55, 283.05, 40.54, 272.97 Q 39.37, 262.89, 39.65, 252.82 Q 39.49, 242.74, 39.81, 232.67 Q 39.47, 222.59, 38.59, 212.52 Q 38.47, 202.44, 38.43, 192.36 Q 38.75, 182.29, 38.93, 172.21 Q 38.10, 162.14, 38.07, 152.06 Q 37.94, 141.98, 38.08, 131.91 Q 38.11, 121.83, 38.62, 111.76 Q 39.00, 101.68, 39.23, 91.61 Q 38.82, 81.53, 39.02, 71.45 Q 38.81, 61.38, 39.35, 51.30 Q 39.32, 41.23, 39.16, 31.15 Q 40.00, 21.08, 40.00, 11.00" style=" fill:white;"></path>\
+         </svg>\
+      </div>\
+   </div>\
+</div>');
